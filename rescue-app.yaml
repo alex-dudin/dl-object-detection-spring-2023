@@ -1,0 +1,6 @@
+storage_dir: "/dl-object-detection-spring-2023/storage"
+yolo8:
+    image_size: 1280
+    device: "cpu"
+    iou_threshold: 0.1
+    conf_threshold: 0.1
